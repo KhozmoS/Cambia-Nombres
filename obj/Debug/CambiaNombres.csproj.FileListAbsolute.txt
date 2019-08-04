@@ -1,0 +1,22 @@
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.csprojAssemblyReference.cache
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.Properties.Resources.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.csproj.GenerateResource.cache
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.csproj.CoreCompileInputs.cache
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\ControlzEx.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\MahApps.Metro.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\MetroFramework.Design.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\MetroFramework.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\ControlzEx.pdb
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\MahApps.Metro.pdb
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\MahApps.Metro.xml
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.csproj.CopyComplete
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.OneForm.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.Forms.MainForm.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\CambiaNombres.Forms.AllForm.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\Piky Copy.exe.config
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\Piky Copy.exe
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Debug\Piky Copy.pdb
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\Piky Copy.exe
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Debug\Piky Copy.pdb

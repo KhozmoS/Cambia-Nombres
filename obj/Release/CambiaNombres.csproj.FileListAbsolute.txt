@@ -1,0 +1,22 @@
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.Properties.Resources.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.csproj.GenerateResource.cache
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.csproj.CoreCompileInputs.cache
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\Piky Copy.exe.config
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\Piky Copy.exe
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\Piky Copy.pdb
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\ControlzEx.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\MahApps.Metro.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\MetroFramework.Design.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\MetroFramework.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\MetroFramework.Fonts.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\System.Windows.Interactivity.dll
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\ControlzEx.pdb
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\MahApps.Metro.pdb
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\bin\Release\MahApps.Metro.xml
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.Forms.AllForm.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.OneForm.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.Forms.MainForm.resources
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.csproj.CopyComplete
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\Piky Copy.exe
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\Piky Copy.pdb
+C:\Users\KhozmoS\source\repos\CambiaNombres\CambiaNombres\obj\Release\CambiaNombres.csprojAssemblyReference.cache
